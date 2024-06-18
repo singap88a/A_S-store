@@ -1,0 +1,234 @@
+[
+  
+  {
+    "id": 0,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677059_668897_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677059_668897_02_front_comping.jpg",
+    "name": " Acer  Full HD (1920 x 1080)  a screen Gaming",
+    "price": 120
+  },
+    {
+    "id": 1,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/680831_706903_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/680831_706903_04_front_comping.jpg",
+    "name": " AOC CQ32G3SU 32 2K WQHD 165Hz a screen ",
+    "price": 180,
+    "old_price": 200
+  },
+  {
+    "id": 2,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/667350_577064_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/667350_577064_03_front_comping.jpg",
+    "name": " AMD Ryzen 7   3.8GHz Gaming  desktop ",
+    "price": 200
+  },
+  
+  {
+    "id": 3,
+    "img": "img/product/f_1.jpg",
+    "img_hover": "img/product/f_1h.jpg",
+    "name": "  Lorem ipsum dolor sit, amet consectetur ",
+    "price": 60
+  },
+  
+  {
+    "id": 4,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/605619_922930_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/605619_922930_03_front_comping.jpg",
+    "name": "Corsair Ironclaw  Gaming Mouse - Black",
+    "price": 160
+  },
+  {
+    "id": 5,
+    "img": "https://m.media-amazon.com/images/I/71oXRrlVd-L.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "img_hover": "https://m.media-amazon.com/images/I/71oXRrlVd-L.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "name": " T8 Wired Gaming Headphones for  4 with  ",
+    "price": 100,
+    "old_price": 195
+  },
+  {
+    "id": 6,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/668529_592345_01_front_comping.jpg",
+    "img_hover": " https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/668529_592345_03_front_comping.jpg",
+    "name": " PowerSpec G235  3.8GHz Gaming  PC desktop ",
+    "price": 140,
+    "old_price": 200
+  },
+  {
+    "id": 7,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677546_675561_02_front_mini.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677546_675561_05_front_comping.jpg",
+    "name": "HP OMEN 16-a 16.1 Gaming Laptop   ",
+    "price": 100
+  },
+  
+  {
+    "id": 8,
+    "img": " img/product/shos_5.jpg",
+    "img_hover": " img/product/shos_5h.jpg",
+    "name": "  Lorem ipsum dolor sit, amet  adipisicing ",
+    "price": 400
+  },
+  {
+    "id": 9,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/606919_937565_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/606919_937565_02_front_comping.jpg",
+    "name": "Logitech G G502   RGB Gaming Mouse-Black ",
+    "price": 120
+  },
+  {
+    "id": 10,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677540_675587_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677540_675587_05_front_comping.jpg",
+    "name": " HP Victus 15-fa1005nr Gaming Laptop   ",
+    "price": 350,
+    "old_price": 420
+  
+  },
+  {
+    "id": 11,
+    "img": "https://m.media-amazon.com/images/I/61tl-Fi6-uL._AC_SY355_.jpg",
+    "img_hover": "https://m.media-amazon.com/images/I/61tl-Fi6-uL._AC_SY355_.jpg",
+    "name": "Over-Ear Wired Gaming Headset Surround   ",
+    "price": 222
+  },
+  {
+    "id": 12,
+    "img": "https://m.media-amazon.com/images/I/61QKtj1dDqL._AC_SX522_.jpg",
+    "img_hover": "https://m.media-amazon.com/images/I/61QKtj1dDqL._AC_SX522_.jpg",
+    "name": " OZINO GM6 RGB   Gaming Headset - Sound ",
+    "price": 180
+  },
+  {
+    "id": 13,
+    "img": "img/product/f_3h.jpg",
+    "img_hover": "img/product/f_3.jpg",
+    "name": "  Lorem ipsum dolor sit, amet consectetur   ",
+    "price": 129
+  },
+  {
+    "id": 14,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/663213_541573_01_front_comping.jpg", 
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/663213_541573_04_front_comping.jpg",
+    "name": "MSI Raider  13VG-020US 17.3  Laptop",
+    "price": 299
+  },
+  {
+    "id": 15,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/501774_686105_01_front_comping.jpg",
+    "img_hover":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/501774_686105_03_front_comping.jpg",
+    "name": " Razer   RGB Mecha-Membrane Gaming  ",
+    "price": 120
+  },
+  {
+    "id": 16,
+    "img": "https://m.media-amazon.com/images/I/61lCLrCtuhL._AC_SX425_.jpg",
+    "img_hover": "https://m.media-amazon.com/images/I/61lCLrCtuhL._AC_SX425_.jpg",
+    "name": "PINGWOO Ergonomic USB Gaming Mouse     ",
+    "price": 340
+  },
+  {
+    "id": 17,
+    "img": " https://m.media-amazon.com/images/I/71PtY7s-ODL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "img_hover": " https://m.media-amazon.com/images/I/71PtY7s-ODL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "name": "V-4 Gaming Headset for Xbox One, PS4  ",
+    "price": 115,
+    "old_price": 150
+  },
+  {
+    "id": 18,
+    "img": "img/product/f_4.jpg",
+    "img_hover": "img/product/f_4h.jpg",
+    "name": "  Lorem ipsum dolor sit, amet consectetur  ",
+    "price": 90
+     
+  },
+   
+  {
+    "id": 19,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677028_668582_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/677028_668582_01_front_comping.jpg",
+    "name": "Acer  16 PH16-72-9110 16 Gaming Laptop ",
+    "price": 120
+  },
+  {
+    "id": 20,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/631339_209437_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/631339_209437_02_front_comping.jpg",
+    "name": "Razer BlackWidow V3 -  Gaming Keyboard ",
+    "price": 225,
+    "old_price": 300
+  },
+  {
+    "id": 21,
+    "img": "img/product/f_5.jpg",
+    "img_hover": "img/product/f_5h.jpg",
+    "name": "  Lorem ipsum dolor sit, amet consectetur   ",
+    "price": 150
+    
+  },
+  {
+    "id": 22,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/676670_665893_03_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/676670_665893_05_front_comping.jpg",
+    "name": " MSI 18 A14VIG-088US 18 Gaming Laptop",
+    "price": 120
+  },
+  {
+    "id": 23,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/663213_541573_01_front_comping.jpg" ,
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/663213_541573_04_front_comping.jpg",
+    "name": " HP Victus Gaming Laptop 15-fa1093dx -  ",
+    "price": 299
+  },
+  {
+    "id": 24,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/668529_592345_01_front_comping.jpg",
+    "img_hover": " https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/668529_592345_03_front_comping.jpg",
+    "name": "PowerSpec G235  3.8GHz Gaming  PC desktop  ",
+    "price": 333
+  },
+  {
+    "id": 25,
+    "img": "https://m.media-amazon.com/images/I/61a4rgM5wcL._AC_SX522_.jpg",
+    "img_hover": "https://m.media-amazon.com/images/I/61a4rgM5wcL._AC_SX522_.jpg ",
+    "name": " Headset for PlayStation  Gaming  ",
+    "price": 300
+  },
+  
+  {
+    "id": 26,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/662955_541292_01_front_comping.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/662955_541292_02_front_comping.jpg",
+    "name": " Razer BlackWidowV4 Pro Mechanical  ",
+    "price": 190
+  },
+  {
+    "id": 27,
+    "img": "img/product/product3.jpg ",
+    "img_hover": "  img/product/product-3.jpg",
+    "name": "  Lorem ipsum dolor sit, amet consectetur   ",
+    "price": 144
+  },
+  {
+    "id": 28,
+    "img": "img/product/product-4.jpg",
+    "img_hover": "img/product/product4.jpg",
+    "name": "  Lorem ipsum dolor sit, amet consectetur   ",
+    "price": 200
+  },
+  
+  {
+    "id": 29,
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/663009_540195_01_front_zoom.jpg",
+    "img_hover": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/663009_540195_05_front_zoom.jpg",
+    "name": " ASUS TUF Gaming A15 FA507XV-MS94 Laptop ",
+    "price": 120
+  }
+
+  
+  
+   
+  
+   
+    ]
